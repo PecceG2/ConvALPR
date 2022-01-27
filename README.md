@@ -1,4 +1,5 @@
-# ConvALPR
+# ConvALPR (Con soporte MySQL/MariaDB)
+*Este proyecto es un fork del original de ankandrew para soportar bases de datos relacionales MySQL/MariaDB; todos los créditos a el autor original*
 
 
 [![Alt Text](imgs/alpr.gif)](https://youtu.be/-TPJot7-HTs?t=652)
@@ -121,6 +122,8 @@ print(predicciones)
  si queres **entrenar uno [personalizado](https://github.com/ankandrew/cnn-ocr-lp/wiki/Entrenamiento)**
  
  * *Este trabajo forma parte de un proyecto integrador para la Universidad*
+ * 
+ * **Aclaración del fork MySQL**: Mis conocimientos sobre Python es nulo, el soporte a MySQL se agregó sobre el proyecto original as-is. Mejoras sobre el código son totalmente bienvenidas. Con respecto a la solución de errores en caso de que surjan, intentaré hacer todo lo posible. 
 
 ## TODO
 
